@@ -1,8 +1,46 @@
-  h1{
-      font-family: 'Futura', sans-serif;
-      font-size: 80px;
-      }
-      h2{
-      font-family: 'Abel', sans-serif;
-      font-size: 60px;
-      }
+h1 {
+  font-family: 'Futura', sans-serif;
+  font-size: 80px;
+  position:absolute;
+  top: 0px;
+  left: 75px;
+  width: 900px;
+  height: 100px
+}
+
+h2 {
+  font-family: 'Abel', sans-serif;
+  font-size: 60px;
+}
+
+#cr10 {
+  position: absolute;
+  top: 300px;
+  left: 75px;
+  width: 600px;
+  height: 450px;
+}
+
+#a8 {
+  position: absolute;
+  top: 300px;
+  left: 750px;
+  width: 600px;
+  height: 450px;
+}
+
+#cr10-text {
+  position: absolute;
+  top: 175px;
+  left: 300px;
+  width: 150px;
+  height: 70px;
+}
+
+#a8-text {
+  position:absolute;
+  top: 175px;
+  left: 950px;
+  width: 200px;
+  height: 70px 
+}
